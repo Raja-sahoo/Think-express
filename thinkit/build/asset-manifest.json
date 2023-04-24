@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thinkzone/static/css/main.756af292.css",
+    "main.js": "/thinkzone/static/js/main.2f10e032.js",
+    "static/js/787.ba77fcdd.chunk.js": "/thinkzone/static/js/787.ba77fcdd.chunk.js",
+    "static/media/logo.svg": "/thinkzone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thinkzone/index.html",
+    "main.756af292.css.map": "/thinkzone/static/css/main.756af292.css.map",
+    "main.2f10e032.js.map": "/thinkzone/static/js/main.2f10e032.js.map",
+    "787.ba77fcdd.chunk.js.map": "/thinkzone/static/js/787.ba77fcdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.2f10e032.js"
+  ]
+}
